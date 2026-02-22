@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lawyer-yenny.github.io/seoyeeun-lawyer/sitemap.xml
